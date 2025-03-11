@@ -1,6 +1,4 @@
-¡Tienes razón! Para empezar con **Inteligencia Artificial Generativa** (IAG), es importante tener una base sólida, pero no es suficiente solo con saber **Python**, **NumPy**, **Pandas** y **Matplotlib**. Sin embargo, esas herramientas son **fundamentales** para entender cómo trabajar con datos, y te ayudarán en la preparación para el uso de modelos de **IA generativa**. La IA generativa, como los modelos de lenguaje (GPT) o los generadores de imágenes, requiere conocimientos adicionales, especialmente en áreas como **deep learning**, redes neuronales, y bibliotecas especializadas.
-
-Aquí te doy un desglose de lo que necesitas saber para dar el siguiente paso hacia la **Inteligencia Artificial Generativa**:
+Desglose de lo que necesitas saber para dar el siguiente paso hacia la **Inteligencia Artificial Generativa**:
 
 ---
 
