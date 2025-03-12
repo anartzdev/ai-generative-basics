@@ -2,6 +2,17 @@
 
 Python es un lenguaje de programación muy popular y versátil, y NumPy y Pandas son bibliotecas esenciales para trabajar con datos en Python. Para profundizar en estos temas y prepararte para trabajar con inteligencia artificial generativa, te recomiendo seguir los siguientes pasos:  
 
+## 0. Cálculo y Álgebra Lineal
+La IA generativa requiere una comprensión más profunda de cálculo, álgebra lineal y probabilidades, ya que los modelos de deep learning operan sobre tensores y matrices, y dependen de estas matemáticas para la optimización. NumPy te ayudará a entender estas operaciones.
+
+- Vectores y matrices
+- Operaciones con matrices (producto punto, transposición, etc.)
+- Derivadas y gradientes (para entender el algoritmo de retropropagación)
+
+### Recursos recomendados:
+- [Khan Academy](https://es.khanacademy.org/): Algebra lineal, Cálculo
+- [3Blue1Brown](https://www.youtube.com/watch?v=0Ndnzx6AyaA&list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA) (YouTube): Canal excelente para visualizar conceptos de matemáticas.
+
 ## 1. Aprende los conceptos básicos de Python  
 - Variables, tipos de datos y operaciones aritméticas  
 - Control de flujo (`if-else`, `for`, `while`)  
